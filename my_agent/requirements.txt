@@ -1,0 +1,2 @@
+litellm==1.97.0
+google-adk==2.7.1
